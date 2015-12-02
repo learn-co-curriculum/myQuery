@@ -73,3 +73,5 @@ learn -b # runs also in the browser
 * [parentNode](https://developer.mozilla.org/en-US/docs/Web/API/Node.parentNode)
 * [#style](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement.style)
 * [You might not need jQuery (But you totally do)](http://youmightnotneedjquery.com/)
+
+<a href='https://learn.co/lessons/myQuery' data-visibility='hidden'>View this lesson on Learn.co</a>
